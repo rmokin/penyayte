@@ -1,0 +1,9 @@
+{
+    "log":{
+        "level": 10,
+        "format": "%(name)s %(asctime)s %(levelname)s %(message)s"
+    },
+    "telegram":{
+        "token": "7258182952:AAH82Ao0wfPUCwzS-F1bqUuAa-8N2X0ycQc"
+	}
+}
